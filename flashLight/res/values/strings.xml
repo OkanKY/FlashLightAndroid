@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">"flashLight "</string>
+    <string name="details_1">"1 "</string>
+    <string name="details_2">"2 "</string>
+    <string name="details_3">"3 "</string>
+    <string name="details_0">"0 "</string>
+     <string name="frequency">"Frequency "</string>
+     <string name="ok">"OK"</string>
+     <string name="stop">"STOP"</string>
+     <string name="finish">"FıNıSH"</string>
+
+</resources>
