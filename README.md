@@ -1,7 +1,10 @@
 # FlashLightAndroid
 Uygulamanın amacı Android İşletim sistemlerine sahip akıllı telefonların var olan Flash'larını kullanarak kullanıcıya sunulan üç değişik frekans seçeneğine göre flashın secilen ritimde yanıp sönmesidir. Kullanıcı Flash'ını gerektiği durumlarda Değişik frekanslarda veya Sürekli yanan durumda calıstırabilmektedir.
-  Bu durumu 
-  runnable = new Thread() {
+  Bu durumu
+  
+      
+                  
+                runnable = new Thread() {
 			       @Override 
 			       public void run() {
 			    	   try {
